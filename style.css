@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(190, 190, 255);
+    color: rgb(7, 86, 142);
+}
+
+p {
+    background-color: rgb(109, 109, 231);
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+h1 {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.pic {
+    text-align: center;
+}
+
+h2 {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+nav a {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: rgb(109, 109, 231);
+    padding: 10px;
+}
+
+nav{
+    text-align: center;
+padding: 20px;
+}
